@@ -1,2 +1,2 @@
 # AIDD-Project-2-AirlineGPT
-**AirlineGPT**: An AI chatbot for flight booking, real-time updates, baggage tracking, and personalized travel assistance. Simplifying air travel for passengers and airlines.
+**AirlineGPT**: **AirlineGPT** is an AI-powered chatbot that simplifies air travel by assisting with flight bookings, real-time updates, baggage tracking, and personalized customer support. It offers multilingual communication, seamless trip planning, and post-flight assistance, enhancing the travel experience for passengers while reducing costs for airlines and travel agencies.
